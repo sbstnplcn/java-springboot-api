@@ -1,0 +1,4 @@
+MyApi\controllers\GarageRestController.class
+MyApi\controllers\CarRestController.class
+MyApi\Application.class
+MyApi\repositories\CarRepository.class
